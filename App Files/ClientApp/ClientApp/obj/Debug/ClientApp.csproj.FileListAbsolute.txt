@@ -1,0 +1,11 @@
+c:\users\mohammed\documents\visual studio 2015\Projects\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+c:\users\mohammed\documents\visual studio 2015\Projects\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+c:\users\mohammed\documents\visual studio 2015\Projects\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+c:\users\mohammed\documents\visual studio 2015\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.Form1.resources
+c:\users\mohammed\documents\visual studio 2015\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+c:\users\mohammed\documents\visual studio 2015\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.Cache
+c:\users\mohammed\documents\visual studio 2015\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+c:\users\mohammed\documents\visual studio 2015\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\rachi\Downloads\App Files\App Files\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\rachi\Downloads\App Files\App Files\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\rachi\Downloads\App Files\App Files\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
